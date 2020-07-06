@@ -1,5 +1,10 @@
 var config = [
   {
+    post: 'https://www.instagram.com/p/CCTspZVnqHc',
+    redirect: 'https://bit.ly/3qbd47',
+    alt: '#47 - [Tech] Versionamento e GIT com o Filho da Nuvem'
+  },
+  {
     post: 'https://www.instagram.com/p/CCBmuWknWHs',
     redirect: 'https://bit.ly/3qbd46',
     alt: '#46 - [Politize-se] Vida LGBTQ+ na Tecnologia'
