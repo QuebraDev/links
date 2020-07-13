@@ -1,5 +1,10 @@
 var config = [
   {
+    post: 'https://www.instagram.com/p/CClnGRQnSga',
+    redirect: 'https://quebradev.com.br/teoria-da-computacao-com-programacao-dinamica/',
+    alt: '#48 - [Tech] Teoria da computação com Programação Dinâmica'
+  },
+  {
     post: 'https://www.instagram.com/p/CCTspZVnqHc',
     redirect: 'https://bit.ly/3qbd47',
     alt: '#47 - [Tech] Versionamento e GIT com o Filho da Nuvem'
