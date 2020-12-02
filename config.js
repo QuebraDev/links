@@ -1,5 +1,10 @@
 var config = [
   {
+    post: 'https://www.instagram.com/p/CITU_xIngbb',
+    redirect: 'https://quebradev.com.br/to-no-rumo-como-pensar-o-futuro/',
+    alt: '#49 - [Tô no Rumo] Como Pensar o Futuro?'
+  },
+  {
     post: 'https://www.instagram.com/p/CFnKqjmHkzw',
     redirect: 'https://quebradev.com.br/to-no-rumo-como-pensar-o-futuro/',
     alt: '#49 - [Tô no Rumo] Como Pensar o Futuro?'
