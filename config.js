@@ -1,5 +1,10 @@
 var config = [
   {
+    post: 'https://www.instagram.com/p/CIgnSLLnpDo',
+    redirect: 'https://quebradev.com.br/to-no-rumo-primeiro-emprego-transicao-escola-trabalho/',
+    alt: '#50 - [Tô No Rumo | Ação Educativa] Primeiro Emprego: Transição Escola-Trabalho'
+  },
+  {
     post: 'https://www.instagram.com/p/CITU_xIngbb',
     redirect: 'https://quebradev.com.br/to-no-rumo-como-pensar-o-futuro/',
     alt: '#49 - [Tô no Rumo] Como Pensar o Futuro?'
