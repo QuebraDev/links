@@ -1,6 +1,21 @@
 var config = [
   {
+    post: 'https://www.instagram.com/p/CL4fMf_HIHO',
+    redirect: 'https://quebradev.com.br/carreiras-em-ti-com-andreza-deza/',
+    alt: '#51 - [Tech] Carreiras em TI com Andreza "Deza"'
+  },
+  {
+    post: 'https://www.instagram.com/p/CLmSemXnW2fs',
+    redirect: 'https://quebradev.com.br/python-com-nana-raythz/',
+    alt: '#20 - [Tech] Python com Nana Raythz'
+  },
+  {
     post: 'https://www.instagram.com/p/CIgnSLLnpDo',
+    redirect: 'https://quebradev.com.br/financas-criticas-com-a-nath/',
+    alt: '#22 - [Politize-se] Finanças críticas com a Nath'
+  },
+  {
+    post: 'https://www.instagram.com/p/CLMZps9HtCp',
     redirect: 'https://quebradev.com.br/to-no-rumo-primeiro-emprego-transicao-escola-trabalho/',
     alt: '#50 - [Tô No Rumo | Ação Educativa] Primeiro Emprego: Transição Escola-Trabalho'
   },
