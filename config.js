@@ -1,5 +1,15 @@
 var config = [
   {
+    post: 'https://www.instagram.com/p/CMiNPsGh-XV',
+    redirect: 'https://quebradev.com.br/vire-programador-em-7-dias/',
+    alt: '#52 - [Tech] Vire Programador em 7 Dias'
+  },
+  {
+    post: 'https://www.instagram.com/p/CMckq9jHp3S',
+    redirect: 'https://quebradev.com.br/vire-programador-em-7-dias/',
+    alt: '#52 - [Tech] Vire Programador em 7 Dias'
+  },
+  {
     post: 'https://www.instagram.com/p/CL4fMf_HIHO',
     redirect: 'https://quebradev.com.br/carreiras-em-ti-com-andreza-deza/',
     alt: '#51 - [Tech] Carreiras em TI com Andreza "Deza"'
