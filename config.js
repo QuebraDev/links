@@ -1,4 +1,19 @@
-var config = [
+const config = [
+  {
+    post: 'https://www.instagram.com/p/Cbx2TtNuytM',
+    redirect: 'https://quebra.dev/computacao-verde/',
+    alt: '#65 - [Iniciação Científica] Computação Verde'
+  },
+  {
+    post: 'https://www.instagram.com/p/CN-S4AYHICF',
+    redirect: 'https://quebra.dev/nois-e-forca-de-trabalho-com-galo',
+    alt: '#55 - [Politize-se] Nóis é Força de Trabalho - Com Galo dos Entregadores Antifascistas'
+  },
+  {
+    post: 'https://www.instagram.com/p/CNddGpwHOsZ',
+    redirect: 'https://docs.google.com/forms/d/e/1FAIpQLSfiMrnr-3qM_REQA3xcx9YkNIBAk2Em5wdzdroZJC35zgldVA/closedform',
+    alt: 'CODECON'
+  },
   {
     post: 'https://www.instagram.com/p/CMiNPsGh-XV',
     redirect: 'https://quebradev.com.br/vire-programador-em-7-dias/',
@@ -122,14 +137,14 @@ var config = [
 ]
 
 function buildImage (postUrl, redirect, alt) {
-  var link = document.createElement('a')
+  const link = document.createElement('a')
   link.setAttribute('href', redirect)
 
-  var div = document.createElement('div')
+  const div = document.createElement('div')
   div.classList.add('col-4')
 
-  var imageLink = postUrl + '/media?size=l'
-  var img = document.createElement('img')
+  const imageLink = postUrl + '/media?size=l'
+  const img = document.createElement('img')
 
   img.setAttribute('src', imageLink)
   img.setAttribute('alt', alt)
@@ -142,7 +157,7 @@ function buildImage (postUrl, redirect, alt) {
 }
 
 function main () {
-  var images = config.map(function (url) {
+  const images = config.map(function (url) {
     return buildImage(
       url.post,
       url.redirect,
