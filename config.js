@@ -1,5 +1,15 @@
 var config = [
   {
+    post: 'https://www.instagram.com/p/CN-S4AYHICF',
+    redirect: 'https://quebra.dev/nois-e-forca-de-trabalho-com-galo',
+    alt: '#55 - [Politize-se] Nóis é Força de Trabalho - Com Galo dos Entregadores Antifascistas'
+  },
+  {
+    post: 'https://www.instagram.com/p/CNddGpwHOsZ',
+    redirect: 'https://docs.google.com/forms/d/e/1FAIpQLSfiMrnr-3qM_REQA3xcx9YkNIBAk2Em5wdzdroZJC35zgldVA/closedform',
+    alt: 'CODECON'
+  },
+  {
     post: 'https://www.instagram.com/p/CMiNPsGh-XV',
     redirect: 'https://quebradev.com.br/vire-programador-em-7-dias/',
     alt: '#52 - [Tech] Vire Programador em 7 Dias'
